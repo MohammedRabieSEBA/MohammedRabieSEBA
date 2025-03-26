@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Mohammed Rabie, an **Engineering student in Computer Science** at the *Institut Sup Galilée, Université Sorbonne Paris Nord* (USPN). Passionate about **technology**, **innovation**, and **continuous learning**, I am always eager to apply my knowledge in practical, impactful ways.
+Welcome to my GitHub profile! I'm Mohammed Rabie, an **Engineering student in Computer Science** at the *Higher National School of Computer Science Algiers* (ENSI). Passionate about **technology**, **innovation**, and **continuous learning**, I am always eager to apply my knowledge in practical, impactful ways.
 
 ### 🔭 I’m currently working on:
 - **Cybersecurity projects**: Solving complex challenges in Capture The Flag (CTF) competitions, with a focus on cryptography.
