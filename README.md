@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm Mohammed Rabie, an **Engineering student in Co
 - **Cybersecurity projects**: Solving complex challenges in Capture The Flag (CTF) competitions, with a focus on cryptography.
 - **Mobile Development**: Building applications using **Flutter** and enhancing user experiences through thoughtful **UI/UX design**.
 - **Backend Development**: Working with **Node.js** and mastering database management using **SQL** and **NoSQL**.
-Sure! Here's the updated section with the additional technologies:
 
 ### 🌱 I’m currently learning:
 - More about **cloud technologies**, **DevOps**, and **advanced cryptography**.
