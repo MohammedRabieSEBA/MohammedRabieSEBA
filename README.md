@@ -34,7 +34,7 @@ Sure! Here's the updated section with the additional technologies:
 - My experience in **project management** and **team leadership**, especially during my time as a project leader in a multidisciplinary project at ENSI.
 
 ### 📫 How to reach me:  
-- **LinkedIn**: [[Your LinkedIn profile]](https://www.linkedin.com/in/seba-mohammed-rabie-580623261/)    
+- **LinkedIn**: [[My LinkedIn profile]](https://www.linkedin.com/in/seba-mohammed-rabie-580623261/)    
 
 ### ⚡ Fun fact:
 - During my second year of class preparatory in Algeria, I led a team to develop a **multiplatform application** (Web, Desktop, and Mobile) as part of a **multidisciplinary project**, achieving one of the highest grades in the class. We created **Machfa**, a dynamic platform that aims to change how users interact with their health data, similar to Doctolib.
